@@ -1,1 +1,2 @@
 This is folder a
+and I just added this line of text
